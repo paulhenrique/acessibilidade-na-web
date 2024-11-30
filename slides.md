@@ -23,12 +23,11 @@ themeConfig:
   primary: "#5d8392"
 plantUmlServer: "https://www.plantuml.com/plantuml"
 
-layout: cover
+layout: quote
 ---
 
-# Acessibilidade na Web:
-
-## Criando soluções acessíveis
+# Acessibilidade na Web: Criando soluções acessíveis
+@phvcandido
 
 ---
 
@@ -92,10 +91,10 @@ hide: true
 
 
 ---
-layout: cover
+layout: quote
 ---
 
-# Quem sou eu e por que eu vou falar de <span v-mark.line.red="1">acessibilidade</span>?
+# Quem sou eu e por que eu vou falar <br/> de <span v-mark.line.red="1">acessibilidade</span>?
 
 --- 
 layout: image-right
@@ -365,26 +364,26 @@ layout: center
 
 As Diretrizes de Acessibilidade de Conteúdo da Web (WCAG) 2.1 definem como tornar o conteúdo da Web mais acessível a pessoas com deficiências. Acessibilidade envolve uma ampla gama de deficiências, incluindo deficiências visuais, auditivas, físicas, de fala, cognitivas, de linguagem, de aprendizagem e neurológicas.
 
----
-layout: iframe
-url: https://www.w3.org/WAI/standards-guidelines/wcag/
----
+[https://www.w3.org/WAI/standards-guidelines/wcag/]
+[https://www.w3.org/TR/WCAG22/]
+
 
 ---
-layout: iframe
-url: https://www.w3.org/TR/WCAG22/
+layout: quote
 ---
 
----
-layout: iframe
-url: https://www.w3.org/WAI/ARIA/apg/patterns/button/
----
+# Padrões de Design
+
+O exemplo do _button_
+
+[https://www.w3.org/WAI/ARIA/apg/patterns/button/]
 
 ---
 layout: center
 ---
 
 # É muito difícil, é ruim de ler e achar o conteúdo
+[https://guia-wcag.com/]
 
 ---
 layout: iframe
@@ -393,12 +392,13 @@ url: https://guia-wcag.com/
 
 
 ---
-layout: cover
+layout: quote
 ---
 
 # Legibilidade e percepção
 
 Utilizar técnicas que melhorem a legibilidade do texto, como contraste adequado entre texto e fundo, e fornecer alternativas para conteúdos audiovisuais para pessoas com deficiência auditiva.
+[https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/contraste.jpg]
 
 ---
 layout: image
@@ -416,8 +416,9 @@ layout: iframe
 url: https://www.facil-iti.fr/#dyslexie
 ---
 
+
 ---
-layout: cover
+layout: quote
 ---
 
 # Navegação Simplificada
@@ -427,6 +428,8 @@ Criar uma estrutura de navegação clara e lógica que permita aos usuários enc
 layout: image
 image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/storm.png
 ---
+
+# O paradoxo da tempestade
 
 ---
 layout: center
@@ -510,18 +513,13 @@ layout: full
 ## O eslint entrega o que está de errado na validação do código
 
 ---
+layout: quote
+---
 
 # Plugins
+- [https://github.com/jsx-eslint/eslint-plugin-jsx-a11y]
+- [https://github.com/dequelabs/axe-core]
 
----
-layout: iframe
-url: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y
----
-
----
-layout: iframe
-url: https://github.com/dequelabs/axe-core
----
 
 ---
 
@@ -568,6 +566,8 @@ render(<MyComponent />);
 const dialogContainer = screen.getByRole('dialog');
 ```
 
+---
+layout: quote
 ---
 
 # Isso náo é tudo
