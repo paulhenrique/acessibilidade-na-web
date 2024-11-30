@@ -1,6 +1,6 @@
 ---
 # try also 'default' to start simple
-theme: default
+theme: apple-basic
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
@@ -450,7 +450,7 @@ image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs
 ---
 
 ---
-layout: cover
+layout: quote
 ---
 
 Os organizadores avaliaram 26,3 milhões de sites ativos no país, número 11% maior do que em 2023. Apesar do salto de 0,5% em 2022 para 3,3% em 2023 no sucesso de todos os testes aplicados, <span v-mark.line.red="0">a queda para 2,9% em 2024</span> mostra que ainda há variações significativas que podem ser atribuídas a novos sites e ao momento específico da análise dos dados.
@@ -461,7 +461,7 @@ image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs
 ---
 
 ---
-layout: cover
+layout: quote
 ---
 
 # Impacto da Acessibilidade Digital
