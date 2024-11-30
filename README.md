@@ -1,5 +1,5 @@
-# Referência de Arquitetura para projetos React 
-Esse repositório reúne diferentes recursos para a construção de uma arquitetura de referências comum para projetos React que permite que os desenvolvedores possam adotar o mesmo padrão em diferentes contextos utilizando bons recursos de desenvolvimento e bases de tecnologia.
+# Acessibilidade na Web
+Apresentação feita no Worktech Itape em 30 de novembro de 2024 abordando os conteúdos diversos relacionados à acessibilidade, Acessibilidade Digital e desenvolvimento de código acessível. 
 
 ## Author
 
