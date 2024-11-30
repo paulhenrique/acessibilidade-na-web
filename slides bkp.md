@@ -99,7 +99,7 @@ layout: cover
 
 --- 
 layout: image-right
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/GESU2.jpeg
+image: /images/GESU2.jpeg
 backgroundPosition: 100%
 ---
 
@@ -118,7 +118,7 @@ No CPQD temos o grupo de Experiência Sistêmica do Usuário, composto pelo time
 
 --- 
 layout: image-right
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/levva.jpg
+image: /images/levva.jpg
 backgroundPosition: 100%
 ---
 
@@ -128,7 +128,7 @@ No começo de 2024 estive junto a outros profissionais em Campinas na sede da Le
 
 --- 
 layout: image-left
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/polis_talk2.JPG
+image: /images/polis_talk2.JPG
 ---
 
 # Pólis Talk: O papel da tecnologia na promoção da acessibilidade digital
@@ -138,7 +138,7 @@ Reuni no Pólis de Alta Tecnologia de Campinas, no Centro de Pesquisa e Desenvol
 
 --- 
 layout: image-right
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/frontincampinas.JPG
+image: /images/frontincampinas.JPG
 ---
 
 ## Front in Campinas 2024
@@ -149,7 +149,7 @@ Com parceria e apoio do Google Developers Group de Americana, DEVPIRA - Comunida
 
 ---
 layout: image-left
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/tdc.jpg
+image: /images/tdc.jpg
 ---
 
 ## The Developers Conference
@@ -218,7 +218,7 @@ layout: quote
 
 ---
 layout: image-left
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/timbernerslee.webp
+image: /images/timbernerslee.webp
 ---
 
 
@@ -255,13 +255,13 @@ Desenvolver interfaces de usuário, sites, aplicativos e outros conteúdos digit
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/software.jpeg
+image: /images/software.jpeg
 backgroundSize: contain
 ---
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/ux.jpeg
+image: /images/ux.jpeg
 backgroundSize: contain
 ---
 
@@ -274,13 +274,13 @@ layout: center
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/universal.png
+image: /images/universal.png
 backgroundSize: contain
 ---
 
 ---
 layout: image-left
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/tecnologia-assistiva.png
+image: /images/tecnologia-assistiva.png
 ---
 
 # Compatibilidade com tecnologias assistivas
@@ -402,7 +402,7 @@ Utilizar técnicas que melhorem a legibilidade do texto, como contraste adequado
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/contraste.jpg
+image: /images/contraste.jpg
 backgroundSize: contain
 ---
 
@@ -425,7 +425,7 @@ Criar uma estrutura de navegação clara e lógica que permita aos usuários enc
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/storm.png
+image: /images/storm.png
 ---
 
 ---
@@ -446,7 +446,7 @@ layout: cover
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/sites_acessiveis.png
+image: /images/sites_acessiveis.png
 ---
 
 ---
@@ -457,7 +457,7 @@ Os organizadores avaliaram 26,3 milhões de sites ativos no país, número 11% m
 
 ---
 layout: image
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/pessoas-com-deficiencia.png
+image: /images/pessoas-com-deficiencia.png
 ---
 
 ---
@@ -491,7 +491,7 @@ Pode até ser verdade
 
 ---
 layout: image-left
-image: https://raw.githubusercontent.com/paulhenrique/acessibilidade-na-web/refs/heads/main/images/eslint.png
+image: /images/eslint.png
 backgroundSize: contain
 ---
 
